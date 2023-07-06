@@ -33,6 +33,9 @@ Selain teknik-teknik di atas, terdapat juga pendekatan lanjutan dalam deteksi ma
 
 Pengolahan citra dalam deteksi marka jalan memainkan peran penting dalam mengidentifikasi marka jalan dan memisahkannya dari latar belakang atau elemen lain dalam citra. Dengan menggunakan teknik-teknik pengolahan citra yang tepat, deteksi marka jalan dapat diimplementasikan secara efektif untuk berbagai aplikasi seperti sistem pengemudi otomatis, sistem bantuan pengemudi, atau pemantauan lalu lintas.
 
+------------------------------------
+Penjelasan Program
+------------------------------------
 Pertama, impor beberapa library yang dibutuhkan:
 
 cv2: OpenCV, library komputer vision yang digunakan untuk pemrosesan citra.
